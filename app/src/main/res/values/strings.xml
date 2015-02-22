@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vladimir adivina DNI</string>
+
+    <string name="titulo">Este es Vladimir el adivino.</string>
+    <string name="action_settings">Settings</string>
+    <string name="enterdni">Por favor, introduce tu DNI para que Vladimir adivine tu letra.</string>
+    <string name="tuletraes">Tu letra es:</string>
+    <string name="btn_calcular">¡Vladimir, dime mi letra!</string>
+    <string name="acercade">Desarrollado por LightStudios (@Javier_Light)</string>
+</resources>
